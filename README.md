@@ -5,4 +5,4 @@ For hardware setup and system installation goto [Z170i-Pro-Gaming-Hackintosh](ht
 
 You need to fill in your own MLB, SystemSerialNumber and SystemUUID
 
-**Clear NVRAM** when swichting between Clover and Opencore
+**Clear NVRAM** when switching between Clover and OpenCore
