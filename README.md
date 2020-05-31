@@ -7,4 +7,4 @@ You need to fill in your own MLB, SystemSerialNumber and SystemUUID
 
 **Clear NVRAM** when switching between Clover and OpenCore
 
-Update: It is safe to update to 10.15.5 directly.
+Update: It is safe to upgrade to 10.15.5 directly.
