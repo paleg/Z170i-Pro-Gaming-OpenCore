@@ -60,6 +60,4 @@ Apple for macOS
 
 acidanthera for OpenCore etc.
 
-CMMChris for RadeonBoost
-
 headkaze for Hackintool
